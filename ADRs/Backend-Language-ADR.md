@@ -48,6 +48,7 @@ Accepted
 2. Other Backend Languages: Provide alternative options but may have different performance characteristics and potentially require additional learning and development effort.
 
 ### Argument
+Using Node.js as the backend language aligns with the retail company's requirements and constraints. It offers a scalable and performant solution for handling concurrent API requests. The team's existing expertise in JavaScript will also facilitate development, and the extensive ecosystem of Node.js libraries and frameworks will support rapid development and integration with other system components.
 
 ### Implications
 1. Leveraging Node.js will allow for efficient server-side logic and API development.
