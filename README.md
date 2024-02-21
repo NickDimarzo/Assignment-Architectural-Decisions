@@ -1,5 +1,8 @@
 # Assignment-Architectural-Decisions
 
+### Authors:
+Nick Dimarzo, Dawson Gall 
+
 ### Scenario 1
 
 You are a team responsible for developing a new mobile app for a retail company. The app will allow customers to browse and purchase products, view their order history, and track the status of their deliveries. Additionally, the app will have a loyalty program feature, where customers can earn and redeem points for discounts on future purchases. The following requirements must be considered:
